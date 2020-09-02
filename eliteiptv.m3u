@@ -85,9 +85,6 @@ https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CBN
-https://live.chdrstatic.com/cbn/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="US" tvg-url="" group-title="United States",CBN News
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 
