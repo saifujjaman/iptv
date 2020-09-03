@@ -10,58 +10,58 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 ,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ekushey TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gazi Tv
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel I
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel 9
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Banglavision TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN Bangla
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Maasranga
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Desh TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deepto TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Asian TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SATV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",SATV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Duronto TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independent
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Independent
 https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Somoy News
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel 24
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jamuna TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Jamuna TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DBC News
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 
 #EXTINF:-1 ,News 24
@@ -70,31 +70,31 @@ https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 ,Ekattor
 http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Bangla
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 
 #EXTINF:-1 ,Sony Aath
 http://103.205.133.14/hls/sony8.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Al Jazeera
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Al Jazeera
 https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC World News
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",BBC World News
 https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CNN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="US" tvg-url="" group-title="United States",CBN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="US" tvg-url="" group-title="United States",CBN
 https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesia",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", National Geographic
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",National Geographic
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NatGeo Wild
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",NatGeo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
 #EXTINF:-1 ,Animal planet
@@ -103,26 +103,23 @@ http://45.249.187.238:8081/hls/tsl-1.m3u8
 #EXTINF:-1 ,Discovery Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Popular Scince
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Popular Scince
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", History
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",History
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLC
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",TLC
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC Lifestyle
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",BBC Lifestyle
 https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX Life
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",FOX Life
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DW
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",DW
 https://itpolly.iptv.digijadoo.net/live/dw/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fasion TV
-https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 
 #EXTINF:-1 tvg-id="The Weather Channel-US" tvg-name="The Weather Channel-US" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="United States",The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -136,7 +133,7 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="Chinese" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" tvg-country="TW" tvg-url="" group-title="Taiwan",HBO
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fox Action Movies
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 #EXTINF:-1 ,AXN
@@ -145,32 +142,26 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/mX1nnGy.png" tvg-country="MY" tvg-url="" group-title="Malaysia",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jalsha Movies
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:-1 ,Sony TV
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star World
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR GOLD
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",STAR GOLD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE TV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",ZEE TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZEE cinema
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",ZEE cinema
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zing
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-
-#EXTINF:-1 ,MTV
-https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
 #EXTINF:-1 ,Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
